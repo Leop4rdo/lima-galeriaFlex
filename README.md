@@ -1,6 +1,6 @@
 # Lima - Galeria Flex
 
-<img src="site.png" width="700px" />
+<img src="site_print.png" width="700px" />
 
 Projeto construido durante as aulas de "lima", no <a href="https://jandira.sp.senai.br/">Senai - Jandira</a>, com o <a href="https://github.com/fernandoleonid">Prof° Leonid</a>, no curso de desenvolvimento de Sistemas.
 
