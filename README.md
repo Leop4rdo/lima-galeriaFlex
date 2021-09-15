@@ -16,4 +16,4 @@ O objetivo do exercicio era criar uma galeria de imagens usando o flexbox do css
 ## Link da pagina
 
 o site pode ser acessado pelo link:
-<a href="https://leop4rdo.github.io/lima-galeriaFlex/">https://leop4rdo.github.io/Lima-LandingPage/</a>
+<a href="https://leop4rdo.github.io/lima-galeriaFlex/">https://leop4rdo.github.io/lima-galeriaFlex/</a>
